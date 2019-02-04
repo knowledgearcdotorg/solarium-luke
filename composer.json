@@ -1,5 +1,5 @@
 {
-    "name": "cpliakas/solarium-luke",
+    "name": "knowledgearcdotorg/solarium-luke",
     "type": "library",
     "description": "A Luke request handler for Solarium.",
     "keywords": ["solr", "solarium", "luke"],
