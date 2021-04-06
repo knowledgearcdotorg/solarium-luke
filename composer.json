@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=5.6",
-        "solarium/solarium": "4.*"
+        "solarium/solarium": "6.*"
     },
     "autoload": {
         "psr-0": {
